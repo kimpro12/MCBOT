@@ -1,6 +1,6 @@
 MC VERSION                  PROTOCOL
-Java Edition 1.18               757
-Java Edition 1.17.1     	  756 
+Java Edition 1.18                 757
+Java Edition 1.17.1     	    756 
 Java Edition 1.17	            755
 Java Edition 1.16.5	            754
 Java Edition 1.16.3	            753
